@@ -34,3 +34,5 @@ class Randevu(Musteri):
             "ucret": self.ucret,
             "durum": self.durum
         }
+    def randevu_aktif_mi(self):
+        return self.durum == "Aktif"
