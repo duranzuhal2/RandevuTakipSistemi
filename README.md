@@ -60,7 +60,16 @@ python main.py
 Program açıldığında kullanıcıya bir menü sunulur. Menü üzerinden randevu ekleme, listeleme, arama, iptal etme, tamamlama ve gelir/kâr hesaplama işlemleri gerçekleştirilebilir.
 
 Randevu bilgileri JSON dosyasına kaydedilir. Böylece program tekrar açıldığında kayıtlar korunur.
+## Proje Gereksinimleri
+
+- Python 3
+- NumPy
+- Pandas
 
 ## Geliştirici
 
-İleri Yazılım Teknikleri Dersi Ödevi
+Python ile Randevu Takip Sistemi ödevi kapsamında hazırlanmıştır.
+
+## Örnek Veriler
+
+Sistemde test amacıyla 20 adet örnek randevu kaydı bulunmaktadır.
