@@ -302,4 +302,5 @@ def ana_menu():
 
 
 dosyadan_yukle()
+print("Randevu Takip Sistemi başarıyla başlatıldı.")
 ana_menu()
